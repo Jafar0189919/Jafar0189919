@@ -672,7 +672,24 @@ parts of the General Public License.  Of course, your program's commands
 might be different; for a GUI interface, you would use an "about box".
 
   You should also get your employer (if you work as a programmer) or school,
-if any, to sign a "copyright disclaimer" for the program, if necessary.
+if any, to sign 678
+
+679
+  The GNU General Public License does not permit incorporating your program
+680
+into proprietary programs.  If your program is a subroutine library, you
+681
+may consider it more useful to permit linking proprietary applications with
+682
+the library.  If this is what you want to do, use the GNU Lesser General
+683
+Public License instead of this License.  But first, please read
+684
+<https://www.gnu.org/licenses/why-not-lgpl.html>.
+685
+
+
+ a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
 <https://www.gnu.org/licenses/>.
 
